@@ -1,0 +1,21 @@
+{
+  "name": "cursoecmascript",
+  "version": "1.0.0",
+  "description": "Curso de ECMAScript Platzi dictado por Oscar Barajas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "curso",
+    "platzi"
+  ],
+  "author": "Aksonyn Adames <aksonynadames@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
